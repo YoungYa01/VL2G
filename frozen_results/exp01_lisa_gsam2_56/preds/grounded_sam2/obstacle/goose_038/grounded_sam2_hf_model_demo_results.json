@@ -1,0 +1,42 @@
+{
+    "image_path": "/mnt/d/research_vl2g/goose_sample_56/images/goose_038.png",
+    "annotations": [
+        {
+            "class_name": "person",
+            "bbox": [
+                744.3363037109375,
+                229.1525115966797,
+                761.5181884765625,
+                270.2128601074219
+            ],
+            "segmentation": {
+                "size": [
+                    500,
+                    1024
+                ],
+                "counts": "h_\\;286JIh>i0M4N101O0O2aAoNY>R1fAnNZ>S1dAnN]>T100100N2O3K9XO[A2jTP4"
+            },
+            "score": 0.78125
+        },
+        {
+            "class_name": "tree",
+            "bbox": [
+                90.49947357177734,
+                1.1632740497589111,
+                300.2626037597656,
+                309.10009765625
+            ],
+            "segmentation": {
+                "size": [
+                    500,
+                    1024
+                ],
+                "counts": "j\\^11c?000d@000k>2PA=8GR>c0jA@i=HXB[1g=:O1O1O1O001O001O1O1O000000001O1O001O00001O00001O001O1O00001O1O1O1O001O001O001O1O1O1O002N1O1O2N2N2N1O001ZCYM]<h2bCYM]<Q3bCkLY<Z3N2N001O001O1O4L5K3M1O0000001O2N001O0000001O001O00001O00O10eITLn0l3aL`L]M9b0WO]OO0;R6f3_LiMbMQOn5X3TLSOk3P1hKZOX4k0aJfK@Nf0f3X5m50O1000000O1O1N2[Oe0gMgJlId5_5c2A?SOnEaKi:U4`0L4N2O1O1O100O100O10000O100HXDdLh;\\3YDbLh;^3YDaLg;_3YDaLg;^38001QD_Li;b3UDaLi;f3O00IXDaLi;_3XD_Li;`3XD_Li;b3VD^Lj;g3O001OMVD[Lk;e32O100O1O1KPDdLR<[340000O1N2O1K5N2O1N2O100000000000000O1M3O1N2O1K5N2O1O1N2L4O1000000K5O1O1O1L4M3O1N2K500O1O1O1GlAQOU>n0mAoNU>o09J]AZOd>d07O100K5N2Ln@ES?8l@HX?73O3MkPQ;"
+            },
+            "score": 0.89453125
+        }
+    ],
+    "box_format": "xyxy",
+    "img_width": 1024,
+    "img_height": 500
+}

@@ -1,0 +1,25 @@
+{
+    "image_path": "/mnt/d/research_vl2g/images/offroad_046.png",
+    "annotations": [
+        {
+            "class_name": "grass",
+            "bbox": [
+                1515.736328125,
+                453.4584045410156,
+                2044.55126953125,
+                996.0036010742188
+            ],
+            "segmentation": {
+                "size": [
+                    1000,
+                    2048
+                ],
+                "counts": "gTY^14_2Nni01eSO3j0Kd02kj0;]TOGf00jj0>ZTOGi0Mkj0b0UTOEn0Jjj0f0oSOHT1Dkj0`1RUO`Nmj0h1kTOZNSk0k1_TOjML;ek0o1YTOjMN:hk0P2UTO[Njk0d2D;L4N2N4L2N2N1O2N1N2O1N3M2N2N2M3M3N2N2N2O1N3N2K4L5L3N2O1O2N1O1N2J7M2N2M3O2N1O1O2N1N2N3M2O1O2M2O1O1^XOSIgf0o6XYOSIff0n6VYOWIif0i6VYOXIif0j6UYOYIhf0i6VYOZIgf0h6WYO[IL\\Odf0[7^YOgI^1POaN25Lgc0^7Q\\OhIR1HPOWOic0f8U]OaHhb0a7U]ObHjb0_7S]OdHkb0^7R]OeHmb0\\7P]OiHlb0[7o\\OjHlb0[7n\\OiHob0_7f\\OgHWc0f9O2N100O2N1O2N1O2N101N2O0O2N2N2M3O1N1O2O1N2O1N3M3L3N2N2N1O2N1O1O2M2O2M201N2O1N2O1N2O0O3N1O2N2N1O4L3M1N2O001O000O2O00001O00O101O0000001O00100O2_Aa_ONMR>Ra0O1O1QBk^Oi=Va0TBo^Ok=n`0WBP_Oj=Pa0VBo^Ok=Qa060000000000O1000000O1KkAW_OU>i`0kAW_OU>i`0kAW_OU>i`0kAW_OU>n`00000000000000000000OO20O1O1O100O1000000O100000O10000000000000O1O001O1O1O100O1N2O100000000lNaA_A_>`>cA_A]>a>dA]A]>c>cA]A]>c>dA\\A\\>c>eA\\A\\>d>dA\\A]>b>dA^A\\>_>gAaAY>]>iAcAW>]>iAbAX>^>^Ah@5j0]>^>]Ai@6h0^>_>[Ak@6e0`>`>ZAl@5c0a>a>[Al@3d0b>`>[Am@2c0c>`>[Al@3d0b>a>ZAk@4d0b>a>YAl@5b0c>h>^AXAb>h>^AXAb>h>^AWAd>h>\\AWAe>h>\\AXAd>i>[AWAe>i>[AWAe>i>[AWAe>j>ZAWAe>i>[AWAe>i>\\AWAc>i>]AWAc>i>]AWAc>i>^AVAb>k>\\AVAd>j>\\AVAd>k>ZAUAg>l>XATAh>m>WAj@0Gk>n?WAP@j>o?WAQ@i>o?XAo_Oi>P`08O100000000O1000TAR@^>n?bAR@^>n?bAR@^>o?`AR@`>n?_AS@a>m?^AU@a>k?^AV@b>j?]AW@c>j?\\AV@d>k?[AT@f>m?YAS@g>n?YAQ@g>P`0ZAn_Of>T`060000001O01O000000000[OQAQAo>l>UASAk>l>WARAj>n>VAn@NHf>Y?]Al@0Kc>Y?^Aj@0Na>V?aAk@N0a>S?cAl@N0_>U?bAl@NNa>P?WAo@:4NLa>P?YAQA631K`>Q?YAQA64n>j>m@RA54n>j>m@SA43Q?h>k@UA35Q?f>n@SA17Q?e>\\AZAd>f>\\AZAd>e>^AZA`>h>aAWA_>h>bAXA^>h>cAVA^>j>bAVA^>j>bAVA^>i>dAUA]>k>cATA^>l>o0O1L4O10000000O101O2N7I3^@k@k>U?UAk@k>T?e0O100O1O10000003M2N1O1O00004L00O100O1000000000000O100O10000000000001O001O001O0O101O001O00G\\@n@d?Q?]@o@c?Q?^@n@b?S?]@m@c?T?92M001O0000000000000O103MLW@k@g?U?Y@k@g?U?Y@k@g?Z?100000000GZ@PAf?P?[@o@e?Q?[@o@f?P?[@n@f?R?8O100000000001O0o_Oo@k?Y?N1O001O00O100K5O10001O0000000001O000_@j@P?V?PAj@P?V?PAj@P?[?k@e@U?[?<1O001O000000000000O102N0000000000N3O0000001O001O1O2gA^@h<c?UC_@k<a?mB\\@TO5n=`?lB]@TO4P>_?lB]@UO3o=a?lBZ@WO3n=c?\\15K1O1QAU@_>l?^AW@a>j?]AX@b>h?^AX@LIb>o?bAX@JLc>m?aA^@^>c?`A^@`>V`0O1O005MOO0N20O1000O10000000O1000O01000000000000001O0000000O1000001O001O0QBU_ONL[=n`0hBV_OML[=n`0hBU_OMN[=l`0iBV_OKO]=j`0hBW_OG3a=e`0iBX_OF3a=b`0lB[_OC3a=``0nB]_OA3a=``0nB\\_OB4`=``0VC^_Oj<b`0XC\\_Oh<d`0YC[_Og<e`0ZCZ_Of<f`0ZCZ_Of<f`0ZCZ_Of<f`0ZCZ_Of<f`0ZCZ_Of<f`0ZCZ_Of<f`0ZCZ_Of<f`0ZCZ_Of<3"
+            },
+            "score": 0.953125
+        }
+    ],
+    "box_format": "xyxy",
+    "img_width": 2048,
+    "img_height": 1000
+}

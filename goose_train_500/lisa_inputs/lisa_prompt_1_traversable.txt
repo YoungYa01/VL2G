@@ -1,0 +1,1000 @@
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_001.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_002.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_003.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_004.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_005.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_006.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_007.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_008.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_009.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_010.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_011.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_012.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_013.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_014.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_015.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_016.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_017.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_018.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_019.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_020.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_021.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_022.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_023.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_024.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_025.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_026.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_027.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_028.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_029.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_030.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_031.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_032.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_033.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_034.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_035.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_036.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_037.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_038.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_039.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_040.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_041.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_042.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_043.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_044.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_045.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_046.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_047.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_048.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_049.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_050.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_051.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_052.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_053.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_054.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_055.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_056.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_057.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_058.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_059.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_060.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_061.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_062.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_063.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_064.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_065.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_066.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_067.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_068.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_069.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_070.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_071.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_072.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_073.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_074.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_075.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_076.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_077.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_078.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_079.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_080.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_081.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_082.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_083.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_084.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_085.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_086.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_087.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_088.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_089.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_090.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_091.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_092.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_093.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_094.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_095.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_096.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_097.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_098.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_099.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_100.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_101.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_102.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_103.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_104.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_105.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_106.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_107.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_108.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_109.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_110.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_111.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_112.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_113.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_114.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_115.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_116.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_117.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_118.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_119.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_120.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_121.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_122.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_123.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_124.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_125.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_126.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_127.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_128.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_129.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_130.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_131.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_132.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_133.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_134.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_135.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_136.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_137.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_138.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_139.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_140.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_141.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_142.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_143.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_144.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_145.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_146.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_147.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_148.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_149.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_150.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_151.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_152.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_153.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_154.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_155.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_156.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_157.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_158.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_159.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_160.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_161.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_162.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_163.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_164.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_165.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_166.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_167.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_168.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_169.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_170.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_171.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_172.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_173.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_174.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_175.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_176.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_177.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_178.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_179.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_180.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_181.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_182.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_183.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_184.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_185.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_186.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_187.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_188.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_189.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_190.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_191.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_192.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_193.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_194.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_195.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_196.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_197.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_198.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_199.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_200.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_201.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_202.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_203.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_204.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_205.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_206.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_207.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_208.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_209.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_210.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_211.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_212.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_213.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_214.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_215.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_216.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_217.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_218.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_219.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_220.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_221.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_222.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_223.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_224.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_225.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_226.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_227.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_228.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_229.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_230.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_231.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_232.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_233.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_234.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_235.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_236.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_237.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_238.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_239.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_240.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_241.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_242.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_243.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_244.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_245.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_246.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_247.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_248.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_249.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_250.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_251.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_252.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_253.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_254.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_255.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_256.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_257.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_258.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_259.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_260.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_261.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_262.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_263.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_264.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_265.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_266.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_267.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_268.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_269.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_270.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_271.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_272.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_273.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_274.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_275.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_276.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_277.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_278.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_279.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_280.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_281.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_282.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_283.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_284.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_285.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_286.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_287.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_288.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_289.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_290.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_291.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_292.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_293.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_294.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_295.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_296.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_297.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_298.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_299.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_300.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_301.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_302.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_303.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_304.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_305.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_306.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_307.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_308.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_309.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_310.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_311.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_312.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_313.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_314.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_315.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_316.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_317.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_318.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_319.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_320.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_321.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_322.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_323.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_324.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_325.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_326.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_327.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_328.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_329.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_330.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_331.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_332.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_333.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_334.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_335.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_336.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_337.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_338.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_339.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_340.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_341.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_342.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_343.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_344.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_345.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_346.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_347.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_348.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_349.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_350.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_351.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_352.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_353.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_354.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_355.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_356.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_357.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_358.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_359.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_360.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_361.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_362.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_363.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_364.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_365.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_366.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_367.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_368.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_369.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_370.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_371.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_372.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_373.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_374.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_375.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_376.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_377.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_378.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_379.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_380.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_381.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_382.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_383.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_384.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_385.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_386.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_387.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_388.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_389.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_390.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_391.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_392.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_393.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_394.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_395.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_396.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_397.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_398.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_399.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_400.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_401.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_402.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_403.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_404.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_405.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_406.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_407.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_408.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_409.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_410.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_411.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_412.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_413.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_414.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_415.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_416.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_417.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_418.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_419.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_420.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_421.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_422.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_423.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_424.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_425.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_426.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_427.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_428.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_429.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_430.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_431.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_432.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_433.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_434.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_435.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_436.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_437.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_438.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_439.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_440.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_441.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_442.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_443.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_444.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_445.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_446.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_447.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_448.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_449.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_450.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_451.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_452.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_453.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_454.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_455.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_456.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_457.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_458.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_459.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_460.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_461.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_462.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_463.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_464.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_465.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_466.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_467.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_468.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_469.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_470.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_471.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_472.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_473.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_474.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_475.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_476.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_477.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_478.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_479.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_480.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_481.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_482.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_483.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_484.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_485.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_486.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_487.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_488.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_489.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_490.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_491.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_492.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_493.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_494.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_495.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_496.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_497.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_498.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_499.png
+Please segment the traversable road area in this image and explain why.
+/mnt/d/research_vl2g/goose_train_500/images/goose_500.png

@@ -1,0 +1,5 @@
+prompt_type,prompt,target_gt
+traversable,Please segment the traversable road area in this image and explain why.,traversable_strict
+obstacle,Please segment the obstacle blocking the road.,obstacle
+water_risk,Please segment the muddy or waterlogged region that may affect driving.,water_risk
+unsafe_proxy,Please segment the area that is unsafe for a vehicle to drive through and explain why.,unsafe_proxy

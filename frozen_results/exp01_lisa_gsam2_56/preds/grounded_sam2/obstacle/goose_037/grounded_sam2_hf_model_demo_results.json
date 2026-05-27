@@ -1,0 +1,76 @@
+{
+    "image_path": "/mnt/d/research_vl2g/goose_sample_56/images/goose_037.png",
+    "annotations": [
+        {
+            "class_name": "person",
+            "bbox": [
+                1242.80615234375,
+                456.3690490722656,
+                1265.298828125,
+                504.80908203125
+            ],
+            "segmentation": {
+                "size": [
+                    1000,
+                    2048
+                ],
+                "counts": "mZnU14Ro0:[O?L4L3M3M3N1N3O00O100O10000O101E=H7J7I`Umg0"
+            },
+            "score": 0.81640625
+        },
+        {
+            "class_name": "person",
+            "bbox": [
+                1338.6151123046875,
+                463.0120544433594,
+                1356.9622802734375,
+                498.0601806640625
+            ],
+            "segmentation": {
+                "size": [
+                    1000,
+                    2048
+                ],
+                "counts": "SSlX16jn0:G7M3N2O1O1N201N010001N1O1K5L5J7B^[Re0"
+            },
+            "score": 0.8359375
+        },
+        {
+            "class_name": "vehicle",
+            "bbox": [
+                1440.0784912109375,
+                467.0207824707031,
+                1496.1195068359375,
+                533.42919921875
+            ],
+            "segmentation": {
+                "size": [
+                    1000,
+                    2048
+                ],
+                "counts": "Xgo[1<an0a0[OZOVROm0dm0>N2N3N1N2O1N2O100000000O1000000000O1000000000001O00000O101O001O1O001O001O1O001O0O11O000N\\NbROb1]m0`NcRO_1]m0aNcRO_1\\m0bNdRO^1\\m0aNfRO]1\\m0aNfRO]1im0I4L4J7H=@ddg`0"
+            },
+            "score": 0.88671875
+        },
+        {
+            "class_name": "person",
+            "bbox": [
+                1365.1409912109375,
+                463.54736328125,
+                1381.8289794921875,
+                498.039306640625
+            ],
+            "segmentation": {
+                "size": [
+                    1000,
+                    2048
+                ],
+                "counts": "o\\hY1;hn08H8K3O00000001N1000002MSmZd0"
+            },
+            "score": 0.80078125
+        }
+    ],
+    "box_format": "xyxy",
+    "img_width": 2048,
+    "img_height": 1000
+}

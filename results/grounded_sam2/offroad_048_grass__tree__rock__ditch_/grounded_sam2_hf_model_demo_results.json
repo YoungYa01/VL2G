@@ -1,0 +1,25 @@
+{
+    "image_path": "/mnt/d/research_vl2g/images/offroad_048.png",
+    "annotations": [
+        {
+            "class_name": "tree",
+            "bbox": [
+                33.42865753173828,
+                2.394169569015503,
+                252.53848266601562,
+                673.9823608398438
+            ],
+            "segmentation": {
+                "size": [
+                    1000,
+                    2048
+                ],
+                "counts": "VgV14Qo05L4L2N3M3M2N2M4M2N3O0O1N3M2N2N2N2N2N3N1N2M3N2N3M2N2N2O2M2O0O2O1N2N2N2N2M3M3M3L4K4M4N2N2N2N2N1O2N2N2M2N3N2M3M2N3M3M3M2O2M3L4M2O1N2N00K5J6N1N4M3O10ON3O0N200N3OO02000N1J700K022O3N10O1N2N1N2NO22O01O01O01OO1O0011N11M3N2O0100O1O0O02O001N11O0N20O10N3M30O1OJ7N2M4M2L3[Oe0M400N01O2L4K00O2K4GdJhVOd5Tc0]J]BU6b=VJPBm5U>]JZAg5i>eJa@b5b?eJ[_OR6j`0XJX]OTOWOXO230\\7bc0l34M3N2M3M3M3M3H8K5M3I7L4L4M3L4J6M3N2N2N2O1N2kNXZOSH42ge0g7V1L4J6F:J6L4F:J6F:mJ[WOV3Ri0iLXWOj2oh0fL`WOh2hNPMkk0b2ZTOZMUl0_2g0TOn0iNQROEin0NaWbg1"
+            },
+            "score": 0.9453125
+        }
+    ],
+    "box_format": "xyxy",
+    "img_width": 2048,
+    "img_height": 1000
+}

@@ -1,0 +1,4 @@
+prompt_type,prompt,target_gt
+road,road. dirt road. path. gravel. soil.,traversable_strict
+obstacle,rock. obstacle. vehicle. person. tree. barrier.,obstacle
+water_risk,water. puddle. mud. snow. high grass. rock.,water_risk

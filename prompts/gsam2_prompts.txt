@@ -1,0 +1,3 @@
+road. dirt road. path.
+grass. tree. rock. ditch.
+mud. puddle. water. obstacle.

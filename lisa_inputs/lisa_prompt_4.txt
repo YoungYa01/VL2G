@@ -1,0 +1,112 @@
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_001.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_002.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_003.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_004.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_005.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_006.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_007.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_008.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_009.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_010.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_011.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_012.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_013.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_014.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_015.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_016.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_017.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_018.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_019.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_020.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_021.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_022.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_023.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_024.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_025.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_026.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_027.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_028.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_029.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_030.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_031.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_032.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_033.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_034.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_035.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_036.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_037.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_038.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_039.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_040.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_041.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_042.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_043.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_044.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_045.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_046.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_047.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_048.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_049.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_050.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_051.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_052.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_053.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_054.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_055.png
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+/mnt/d/research_vl2g/images/offroad_056.png

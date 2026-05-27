@@ -1,0 +1,25 @@
+{
+    "image_path": "/mnt/d/research_vl2g/goose_sample_56/images/goose_001.png",
+    "annotations": [
+        {
+            "class_name": "rock",
+            "bbox": [
+                884.1475219726562,
+                222.7688751220703,
+                920.9323120117188,
+                257.2276916503906
+            ],
+            "segmentation": {
+                "size": [
+                    500,
+                    1024
+                ],
+                "counts": "[l_=1a?4K3M3N3M2O1O1O1N200N2O1O2N1O1O100O1000000000000000000O0100O2N2G:@m@4_?L\\Qc1"
+            },
+            "score": 0.81640625
+        }
+    ],
+    "box_format": "xyxy",
+    "img_width": 1024,
+    "img_height": 500
+}

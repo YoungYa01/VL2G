@@ -1,0 +1,25 @@
+{
+    "image_path": "/mnt/d/research_vl2g/images/offroad_045.png",
+    "annotations": [
+        {
+            "class_name": "puddle",
+            "bbox": [
+                1229.3123779296875,
+                826.231689453125,
+                1374.4122314453125,
+                935.7575073242188
+            ],
+            "segmentation": {
+                "size": [
+                    1000,
+                    2048
+                ],
+                "counts": "UlfU12Uo04M1O1N3N4L1O1O2N1O2N1O2N2N3M1O1O010O1O1O1O1O001O1O10O01O001O1O1O1O1O001O001O1O1O1O001O1O001O1O001O001O1O1O00100O005K001O1O1O1O1O001O00100O1O001O01O1O003N2M3M1O2N101O2M1\\NaRO^1fm0bNZROV1nm0O0O100O1O10O01O001O1O001O000O2O000O2O0O100O2O0O101O0O10001N10000O2O000O2O0O2O1N2N2O1N3MVTid0"
+            },
+            "score": 0.82421875
+        }
+    ],
+    "box_format": "xyxy",
+    "img_width": 2048,
+    "img_height": 1000
+}

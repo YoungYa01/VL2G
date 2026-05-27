@@ -1,0 +1,7 @@
+{
+    "image_path": "/mnt/d/research_vl2g/goose_sample_56/images/goose_002.png",
+    "annotations": [],
+    "box_format": "xyxy",
+    "img_width": 1024,
+    "img_height": 500
+}

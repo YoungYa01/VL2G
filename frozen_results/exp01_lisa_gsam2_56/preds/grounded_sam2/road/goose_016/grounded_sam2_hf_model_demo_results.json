@@ -1,0 +1,25 @@
+{
+    "image_path": "/mnt/d/research_vl2g/goose_sample_56/images/goose_016.png",
+    "annotations": [
+        {
+            "class_name": "gravel soil",
+            "bbox": [
+                254.79074096679688,
+                203.90223693847656,
+                366.7654113769531,
+                242.64805603027344
+            ],
+            "segmentation": {
+                "size": [
+                    500,
+                    1024
+                ],
+                "counts": "Ufm35^?3N4L4L4L4L1O3M3M1O1O000O10000010O0O100000000000000000000000O101OO2O000O100L_AUOa>i07N1001O2XAVOb>n00000000000000O10001O000O10000000000000000000001O0O2O2N2M2N101N100O2O000O4M2M\\n14\\QN6O0001O000000000O2O00000O100O101N1O1O1M4N_RQ:"
+            },
+            "score": 0.89453125
+        }
+    ],
+    "box_format": "xyxy",
+    "img_width": 1024,
+    "img_height": 500
+}

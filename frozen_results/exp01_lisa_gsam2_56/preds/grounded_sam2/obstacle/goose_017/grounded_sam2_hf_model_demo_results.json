@@ -1,0 +1,76 @@
+{
+    "image_path": "/mnt/d/research_vl2g/goose_sample_56/images/goose_017.png",
+    "annotations": [
+        {
+            "class_name": "tree",
+            "bbox": [
+                68.2358169555664,
+                151.91783142089844,
+                191.74154663085938,
+                262.16314697265625
+            ],
+            "segmentation": {
+                "size": [
+                    500,
+                    1024
+                ],
+                "counts": "m[R14[?6N2M3M3M2O2M3N2N2M2O2N3N2M3L3M3N2N1O2N1N3N100O2O0O2N10000O2O1N1O1O2O001O1N101O1O2N2N1O2N7I5[CWMU<U3O1O00001O00O10000O2O0WOSDiMo;S2k0O1O1O2N1O2N1O2N2O1O1N2O000000001O0000001N101O1O1O2N1O1O1N101O1O010O1O1O1O100O100O001O1O010O1O00002N1O2N001O00;D3N2M4L3M6Jj`f<"
+            },
+            "score": 0.87109375
+        },
+        {
+            "class_name": "tree",
+            "bbox": [
+                743.6856079101562,
+                44.81389236450195,
+                848.6052856445312,
+                220.404541015625
+            ],
+            "segmentation": {
+                "size": [
+                    500,
+                    1024
+                ],
+                "counts": "bX_;3300Oo>i0C8I6L5I5L5K<F6I3M9F4N4ZCSM\\<T3M10O2O0011N2N3N1N3N3L2O1N2O1N2O1O3M4L2]EoKRO0Y:c4gEnKW:h401O1O0O2OO1000000O1M4E:G9K5M3M3O1O2O0O101O0O101O0O101O0010O01O001O001O1dNgD[NZ;`1kD\\NY;a1jD]NW;X1VDXNe0?V;T1ZDYNd0b0S;R1\\DYNc0d0S;P1ZEPOg:m0[EPOi:n0XEROi:k0YEVOg:i0ZEXOe:f0\\EZOe:e0[EZOh:b0ZE]Oh:a0YE^Oi:`0XE\\O]ND^<n0WEYOZNId<l0TEXOR;d0PE[OS;b0oD\\OS;b0nD^OT;?S2M3Mdjf2"
+            },
+            "score": 0.8515625
+        },
+        {
+            "class_name": "obstacle barrier",
+            "bbox": [
+                913.0880126953125,
+                252.22372436523438,
+                940.9688720703125,
+                347.65167236328125
+            ],
+            "segmentation": {
+                "size": [
+                    500,
+                    1024
+                ],
+                "counts": "\\an=81NP?o0]Ob0^O=D7I3M2N101N101O13M6Ic0]O`0ZNdAS1k>C4L2N3M1O2N2N2N2N3KjeX1"
+            },
+            "score": 0.828125
+        },
+        {
+            "class_name": "tree",
+            "bbox": [
+                940.5964965820312,
+                1.6424357891082764,
+                1023.3174438476562,
+                260.9028015136719
+            ],
+            "segmentation": {
+                "size": [
+                    500,
+                    1024
+                ],
+                "counts": "TS]><R?8J5I7K4L6DhNTBb1d=?F5K4M4L3L5L3M6G7[NlLZEOn0^3a9VMRFQ3l9RMoER3o9TMgER3W:V101M2O1L5M200O100O1000000O10000O00100O2M2O1N2O1N3L3N2N2O2L3N3M2O2N2N3M3N2M3fGoHL5e7e7N1O1O1N2O001O001N100O2OO1O1O100O1N2K5IYH`Hh7_7700"
+            },
+            "score": 0.93359375
+        }
+    ],
+    "box_format": "xyxy",
+    "img_width": 1024,
+    "img_height": 500
+}

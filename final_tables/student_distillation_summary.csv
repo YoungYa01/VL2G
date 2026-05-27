@@ -1,0 +1,6 @@
+method,label_source,num_train,iou,dice,precision,recall,role
+Student-Grounded-SAM2,Grounded-SAM2 road pseudo labels,100,0.0479,0.0857,0.2916,0.0588,open-vocabulary pseudo-label baseline
+Student-LISA,LISA traversable pseudo labels,100,0.6620,0.7512,0.7199,0.8551,VLM/LLM-guided pseudo-label student
+Student-GT,GOOSE ground-truth labels,100,0.6967,0.7745,0.7975,0.8198,supervised upper bound
+Student-LISA,LISA traversable pseudo labels,500,0.6902,0.7740,0.7517,0.8800,VLM/LLM-guided pseudo-label student
+Student-GT,GOOSE ground-truth labels,500,0.7553,0.8210,0.8335,0.8398,supervised upper bound

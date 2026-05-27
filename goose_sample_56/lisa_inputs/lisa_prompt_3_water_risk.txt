@@ -1,0 +1,112 @@
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_001.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_002.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_003.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_004.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_005.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_006.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_007.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_008.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_009.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_010.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_011.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_012.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_013.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_014.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_015.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_016.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_017.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_018.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_019.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_020.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_021.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_022.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_023.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_024.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_025.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_026.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_027.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_028.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_029.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_030.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_031.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_032.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_033.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_034.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_035.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_036.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_037.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_038.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_039.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_040.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_041.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_042.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_043.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_044.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_045.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_046.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_047.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_048.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_049.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_050.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_051.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_052.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_053.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_054.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_055.png
+Please segment the muddy or waterlogged region that may affect driving.
+/mnt/d/research_vl2g/goose_sample_56/images/goose_056.png

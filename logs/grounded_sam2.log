@@ -1,0 +1,1446 @@
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 139/990 [00:00<00:00, 1369.78it/s]Loading weights:  28%|██▊       | 276/990 [00:00<00:00, 1347.33it/s]Loading weights:  42%|████▏     | 418/990 [00:00<00:00, 1375.07it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2994.62it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 158/990 [00:00<00:00, 1577.16it/s]Loading weights:  33%|███▎      | 323/990 [00:00<00:00, 1616.97it/s]Loading weights:  75%|███████▍  | 738/990 [00:00<00:00, 2771.75it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3164.88it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 174/990 [00:00<00:00, 1734.93it/s]Loading weights:  35%|███▌      | 348/990 [00:00<00:00, 1640.41it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3281.57it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 167/990 [00:00<00:00, 1666.79it/s]Loading weights:  34%|███▎      | 334/990 [00:00<00:00, 1513.32it/s]Loading weights:  49%|████▉     | 487/990 [00:00<00:00, 1517.69it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3031.39it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 174/990 [00:00<00:00, 1731.33it/s]Loading weights:  35%|███▌      | 348/990 [00:00<00:00, 1525.87it/s]Loading weights:  96%|█████████▌| 948/990 [00:00<00:00, 3424.00it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3045.54it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 170/990 [00:00<00:00, 1683.70it/s]Loading weights:  34%|███▍      | 339/990 [00:00<00:00, 1461.50it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3141.61it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 171/990 [00:00<00:00, 1692.15it/s]Loading weights:  35%|███▌      | 349/990 [00:00<00:00, 1733.73it/s]Loading weights:  54%|█████▎    | 531/990 [00:00<00:00, 1772.65it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3195.41it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▋        | 162/990 [00:00<00:00, 1619.69it/s]Loading weights:  33%|███▎      | 328/990 [00:00<00:00, 1641.66it/s]Loading weights:  79%|███████▊  | 778/990 [00:00<00:00, 2945.80it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3255.96it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▌        | 152/990 [00:00<00:00, 1508.85it/s]Loading weights:  31%|███       | 303/990 [00:00<00:00, 1466.05it/s]Loading weights:  45%|████▌     | 450/990 [00:00<00:00, 1447.66it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3069.81it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 140/990 [00:00<00:00, 1399.81it/s]Loading weights:  30%|███       | 299/990 [00:00<00:00, 1505.55it/s]Loading weights:  45%|████▌     | 450/990 [00:00<00:00, 1437.92it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3084.34it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  19%|█▉        | 188/990 [00:00<00:00, 1876.57it/s]Loading weights:  38%|███▊      | 376/990 [00:00<00:00, 1714.82it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3170.23it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 164/990 [00:00<00:00, 1639.09it/s]Loading weights:  33%|███▎      | 328/990 [00:00<00:00, 1550.72it/s]Loading weights:  68%|██████▊   | 677/990 [00:00<00:00, 2409.27it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3141.63it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 171/990 [00:00<00:00, 1693.39it/s]Loading weights:  34%|███▍      | 341/990 [00:00<00:00, 1575.95it/s]Loading weights:  73%|███████▎  | 723/990 [00:00<00:00, 2557.18it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3100.01it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 170/990 [00:00<00:00, 1695.44it/s]Loading weights:  34%|███▍      | 340/990 [00:00<00:00, 1517.22it/s]Loading weights:  50%|████▉     | 493/990 [00:00<00:00, 1447.90it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2878.52it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▎        | 134/990 [00:00<00:00, 1328.10it/s]Loading weights:  27%|██▋       | 267/990 [00:00<00:00, 1306.42it/s]Loading weights:  42%|████▏     | 417/990 [00:00<00:00, 1393.01it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2741.30it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 175/990 [00:00<00:00, 1744.61it/s]Loading weights:  35%|███▌      | 350/990 [00:00<00:00, 1596.08it/s]Loading weights:  52%|█████▏    | 511/990 [00:00<00:00, 1594.41it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3043.68it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 173/990 [00:00<00:00, 1729.92it/s]Loading weights:  35%|███▍      | 346/990 [00:00<00:00, 1704.76it/s]Loading weights:  52%|█████▏    | 517/990 [00:00<00:00, 1690.37it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3165.93it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 173/990 [00:00<00:00, 1726.75it/s]Loading weights:  35%|███▌      | 349/990 [00:00<00:00, 1744.78it/s]Loading weights:  72%|███████▏  | 708/990 [00:00<00:00, 2586.42it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3246.29it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 167/990 [00:00<00:00, 1668.69it/s]Loading weights:  34%|███▎      | 334/990 [00:00<00:00, 1611.42it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3298.34it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 174/990 [00:00<00:00, 1733.09it/s]Loading weights:  35%|███▌      | 348/990 [00:00<00:00, 1679.22it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3232.30it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 142/990 [00:00<00:00, 1413.54it/s]Loading weights:  29%|██▊       | 284/990 [00:00<00:00, 1387.74it/s]Loading weights:  43%|████▎     | 426/990 [00:00<00:00, 1401.89it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3086.89it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▋        | 162/990 [00:00<00:00, 1619.94it/s]Loading weights:  33%|███▎      | 324/990 [00:00<00:00, 1479.87it/s]Loading weights:  92%|█████████▏| 915/990 [00:00<00:00, 3403.63it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3114.32it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 159/990 [00:00<00:00, 1579.61it/s]Loading weights:  32%|███▏      | 317/990 [00:00<00:00, 1443.69it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3245.29it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 159/990 [00:00<00:00, 1582.15it/s]Loading weights:  32%|███▏      | 318/990 [00:00<00:00, 1558.99it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3347.17it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 170/990 [00:00<00:00, 1698.92it/s]Loading weights:  34%|███▍      | 340/990 [00:00<00:00, 1680.09it/s]Loading weights:  76%|███████▌  | 749/990 [00:00<00:00, 2773.36it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3234.66it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 160/990 [00:00<00:00, 1588.53it/s]Loading weights:  32%|███▏      | 319/990 [00:00<00:00, 1446.36it/s]Loading weights:  75%|███████▍  | 740/990 [00:00<00:00, 2641.77it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3071.74it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 155/990 [00:00<00:00, 1536.71it/s]Loading weights:  31%|███       | 309/990 [00:00<00:00, 1391.37it/s]Loading weights:  84%|████████▍ | 834/990 [00:00<00:00, 3053.87it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3070.71it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▍        | 148/990 [00:00<00:00, 1471.80it/s]Loading weights:  30%|██▉       | 296/990 [00:00<00:00, 1469.94it/s]Loading weights:  45%|████▍     | 443/990 [00:00<00:00, 1360.76it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2959.35it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 165/990 [00:00<00:00, 1638.74it/s]Loading weights:  33%|███▎      | 329/990 [00:00<00:00, 1586.03it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3256.41it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 164/990 [00:00<00:00, 1638.56it/s]Loading weights:  34%|███▎      | 333/990 [00:00<00:00, 1667.83it/s]Loading weights:  55%|█████▌    | 546/990 [00:00<00:00, 1878.40it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3220.47it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▌        | 153/990 [00:00<00:00, 1520.21it/s]Loading weights:  32%|███▏      | 315/990 [00:00<00:00, 1565.02it/s]Loading weights:  48%|████▊     | 472/990 [00:00<00:00, 1556.51it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3106.43it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 168/990 [00:00<00:00, 1672.13it/s]Loading weights:  34%|███▍      | 336/990 [00:00<00:00, 1609.33it/s]Loading weights:  53%|█████▎    | 522/990 [00:00<00:00, 1720.79it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3140.21it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 180/990 [00:00<00:00, 1790.30it/s]Loading weights:  36%|███▋      | 360/990 [00:00<00:00, 1619.32it/s]Loading weights:  88%|████████▊ | 872/990 [00:00<00:00, 3126.23it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3078.92it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 173/990 [00:00<00:00, 1725.62it/s]Loading weights:  35%|███▍      | 346/990 [00:00<00:00, 1575.39it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3162.93it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 166/990 [00:00<00:00, 1641.97it/s]Loading weights:  33%|███▎      | 331/990 [00:00<00:00, 1598.47it/s]Loading weights:  80%|████████  | 796/990 [00:00<00:00, 2965.87it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3196.77it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▍        | 145/990 [00:00<00:00, 1445.60it/s]Loading weights:  29%|██▉       | 290/990 [00:00<00:00, 1441.13it/s]Loading weights:  44%|████▍     | 439/990 [00:00<00:00, 1460.34it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2993.57it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▌        | 149/990 [00:00<00:00, 1489.53it/s]Loading weights:  30%|███       | 298/990 [00:00<00:00, 1463.03it/s]Loading weights:  45%|████▍     | 445/990 [00:00<00:00, 1442.21it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2997.41it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 143/990 [00:00<00:00, 1422.34it/s]Loading weights:  30%|██▉       | 296/990 [00:00<00:00, 1485.45it/s]Loading weights:  46%|████▌     | 452/990 [00:00<00:00, 1515.09it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3095.98it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 140/990 [00:00<00:00, 1388.81it/s]Loading weights:  30%|███       | 299/990 [00:00<00:00, 1505.14it/s]Loading weights:  45%|████▌     | 450/990 [00:00<00:00, 1502.71it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3129.54it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 169/990 [00:00<00:00, 1689.09it/s]Loading weights:  34%|███▍      | 338/990 [00:00<00:00, 1587.54it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3227.64it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▍        | 148/990 [00:00<00:00, 1477.32it/s]Loading weights:  32%|███▏      | 314/990 [00:00<00:00, 1576.36it/s]Loading weights:  49%|████▉     | 489/990 [00:00<00:00, 1655.33it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3190.04it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 142/990 [00:00<00:00, 1416.86it/s]Loading weights:  29%|██▊       | 284/990 [00:00<00:00, 1271.20it/s]Loading weights:  42%|████▏     | 417/990 [00:00<00:00, 1296.01it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2890.83it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 160/990 [00:00<00:00, 1596.04it/s]Loading weights:  32%|███▏      | 320/990 [00:00<00:00, 1567.00it/s]Loading weights:  48%|████▊     | 477/990 [00:00<00:00, 1471.72it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3032.04it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 165/990 [00:00<00:00, 1625.39it/s]Loading weights:  33%|███▎      | 331/990 [00:00<00:00, 1643.69it/s]Loading weights:  50%|█████     | 496/990 [00:00<00:00, 1595.62it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3127.20it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 155/990 [00:00<00:00, 1548.57it/s]Loading weights:  31%|███▏      | 310/990 [00:00<00:00, 1402.66it/s]Loading weights:  78%|███████▊  | 775/990 [00:00<00:00, 2805.28it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3075.85it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 168/990 [00:00<00:00, 1675.69it/s]Loading weights:  34%|███▍      | 336/990 [00:00<00:00, 1628.83it/s]Loading weights:  53%|█████▎    | 527/990 [00:00<00:00, 1754.99it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3158.16it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 172/990 [00:00<00:00, 1712.89it/s]Loading weights:  35%|███▍      | 344/990 [00:00<00:00, 1668.88it/s]Loading weights:  58%|█████▊    | 576/990 [00:00<00:00, 1961.17it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3164.36it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 176/990 [00:00<00:00, 1742.39it/s]Loading weights:  35%|███▌      | 351/990 [00:00<00:00, 1554.85it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3236.57it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  13%|█▎        | 126/990 [00:00<00:00, 1254.23it/s]Loading weights:  27%|██▋       | 263/990 [00:00<00:00, 1318.63it/s]Loading weights:  40%|████      | 398/990 [00:00<00:00, 1329.35it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2951.06it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 173/990 [00:00<00:00, 1716.90it/s]Loading weights:  35%|███▍      | 345/990 [00:00<00:00, 1634.37it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3240.34it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 139/990 [00:00<00:00, 1373.11it/s]Loading weights:  33%|███▎      | 324/990 [00:00<00:00, 1643.60it/s]Loading weights:  58%|█████▊    | 575/990 [00:00<00:00, 2036.67it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3202.98it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▍        | 146/990 [00:00<00:00, 1450.59it/s]Loading weights:  29%|██▉       | 292/990 [00:00<00:00, 1383.36it/s]Loading weights:  78%|███████▊  | 769/990 [00:00<00:00, 2884.41it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3158.56it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 178/990 [00:00<00:00, 1768.84it/s]Loading weights:  36%|███▌      | 355/990 [00:00<00:00, 1612.28it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3337.69it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 165/990 [00:00<00:00, 1629.66it/s]Loading weights:  34%|███▎      | 333/990 [00:00<00:00, 1658.94it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3321.28it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▎        | 135/990 [00:00<00:00, 1347.07it/s]Loading weights:  28%|██▊       | 277/990 [00:00<00:00, 1386.35it/s]Loading weights:  44%|████▎     | 433/990 [00:00<00:00, 1458.71it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3083.63it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▌        | 153/990 [00:00<00:00, 1519.62it/s]Loading weights:  31%|███       | 305/990 [00:00<00:00, 1381.90it/s]Loading weights:  96%|█████████▋| 954/990 [00:00<00:00, 3590.63it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3106.06it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▍        | 145/990 [00:00<00:00, 1449.44it/s]Loading weights:  29%|██▉       | 290/990 [00:00<00:00, 1442.66it/s]Loading weights:  45%|████▌     | 447/990 [00:00<00:00, 1495.30it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2994.90it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 143/990 [00:00<00:00, 1412.64it/s]Loading weights:  29%|██▉       | 289/990 [00:00<00:00, 1436.35it/s]Loading weights:  44%|████▍     | 438/990 [00:00<00:00, 1458.87it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3071.14it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 168/990 [00:00<00:00, 1673.96it/s]Loading weights:  34%|███▍      | 336/990 [00:00<00:00, 1667.81it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3303.65it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 175/990 [00:00<00:00, 1729.32it/s]Loading weights:  35%|███▌      | 348/990 [00:00<00:00, 1505.18it/s]Loading weights:  66%|██████▌   | 654/990 [00:00<00:00, 2159.78it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2979.56it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 156/990 [00:00<00:00, 1549.12it/s]Loading weights:  33%|███▎      | 324/990 [00:00<00:00, 1624.41it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3331.61it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 172/990 [00:00<00:00, 1714.78it/s]Loading weights:  35%|███▍      | 344/990 [00:00<00:00, 1634.16it/s]Loading weights:  97%|█████████▋| 960/990 [00:00<00:00, 3643.16it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3146.13it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 157/990 [00:00<00:00, 1568.07it/s]Loading weights:  32%|███▏      | 314/990 [00:00<00:00, 1471.42it/s]Loading weights:  47%|████▋     | 462/990 [00:00<00:00, 1434.35it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2993.64it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▍        | 147/990 [00:00<00:00, 1463.88it/s]Loading weights:  30%|██▉       | 294/990 [00:00<00:00, 1376.39it/s]Loading weights:  45%|████▍     | 441/990 [00:00<00:00, 1414.94it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3041.48it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 171/990 [00:00<00:00, 1705.25it/s]Loading weights:  35%|███▍      | 342/990 [00:00<00:00, 1563.99it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3181.30it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 166/990 [00:00<00:00, 1642.21it/s]Loading weights:  33%|███▎      | 331/990 [00:00<00:00, 1640.11it/s]Loading weights:  50%|█████     | 496/990 [00:00<00:00, 1246.87it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2278.13it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 172/990 [00:00<00:00, 1702.54it/s]Loading weights:  35%|███▍      | 343/990 [00:00<00:00, 1641.96it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3253.12it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 168/990 [00:00<00:00, 1677.23it/s]Loading weights:  34%|███▍      | 336/990 [00:00<00:00, 1662.25it/s]Loading weights:  98%|█████████▊| 974/990 [00:00<00:00, 3803.97it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3272.56it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 172/990 [00:00<00:00, 1706.01it/s]Loading weights:  35%|███▍      | 343/990 [00:00<00:00, 1539.43it/s]Loading weights:  50%|█████     | 498/990 [00:00<00:00, 1531.26it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2904.52it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 164/990 [00:00<00:00, 1580.64it/s]Loading weights:  33%|███▎      | 323/990 [00:00<00:00, 1453.53it/s]Loading weights:  50%|█████     | 498/990 [00:00<00:00, 1580.54it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2782.34it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 182/990 [00:00<00:00, 1806.38it/s]Loading weights:  37%|███▋      | 363/990 [00:00<00:00, 1710.34it/s]Loading weights:  54%|█████▍    | 535/990 [00:00<00:00, 1655.78it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3019.95it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 170/990 [00:00<00:00, 1689.56it/s]Loading weights:  34%|███▍      | 339/990 [00:00<00:00, 1660.48it/s]Loading weights:  51%|█████     | 506/990 [00:00<00:00, 1561.07it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2952.76it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  13%|█▎        | 126/990 [00:00<00:00, 1250.51it/s]Loading weights:  25%|██▌       | 252/990 [00:00<00:00, 1211.23it/s]Loading weights:  38%|███▊      | 374/990 [00:00<00:00, 1210.68it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2541.53it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▋        | 161/990 [00:00<00:00, 1592.82it/s]Loading weights:  34%|███▎      | 332/990 [00:00<00:00, 1656.09it/s]Loading weights:  51%|█████     | 502/990 [00:00<00:00, 1672.59it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3026.22it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▋        | 163/990 [00:00<00:00, 1615.10it/s]Loading weights:  34%|███▍      | 339/990 [00:00<00:00, 1692.58it/s]Loading weights:  52%|█████▏    | 512/990 [00:00<00:00, 1705.64it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3054.89it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▎        | 134/990 [00:00<00:00, 1324.60it/s]Loading weights:  27%|██▋       | 267/990 [00:00<00:00, 1324.05it/s]Loading weights:  41%|████      | 401/990 [00:00<00:00, 1327.30it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2955.59it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 158/990 [00:00<00:00, 1558.21it/s]Loading weights:  32%|███▏      | 314/990 [00:00<00:00, 1512.26it/s]Loading weights:  75%|███████▌  | 744/990 [00:00<00:00, 2759.90it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3177.30it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▋        | 161/990 [00:00<00:00, 1600.69it/s]Loading weights:  33%|███▎      | 322/990 [00:00<00:00, 1543.11it/s]Loading weights:  49%|████▉     | 485/990 [00:00<00:00, 1581.31it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3126.43it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 168/990 [00:00<00:00, 1673.83it/s]Loading weights:  36%|███▌      | 352/990 [00:00<00:00, 1768.88it/s]Loading weights:  93%|█████████▎| 917/990 [00:00<00:00, 3538.03it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3274.74it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 176/990 [00:00<00:00, 1757.21it/s]Loading weights:  36%|███▌      | 352/990 [00:00<00:00, 1617.65it/s]Loading weights:  74%|███████▍  | 731/990 [00:00<00:00, 2564.26it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3098.22it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 164/990 [00:00<00:00, 1637.89it/s]Loading weights:  33%|███▎      | 328/990 [00:00<00:00, 1511.08it/s]Loading weights:  48%|████▊     | 480/990 [00:00<00:00, 1484.28it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3000.79it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 170/990 [00:00<00:00, 1686.73it/s]Loading weights:  34%|███▍      | 339/990 [00:00<00:00, 1669.24it/s]Loading weights:  51%|█████     | 506/990 [00:00<00:00, 1633.96it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3072.97it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▍        | 146/990 [00:00<00:00, 1457.80it/s]Loading weights:  31%|███       | 302/990 [00:00<00:00, 1517.46it/s]Loading weights:  47%|████▋     | 465/990 [00:00<00:00, 1567.68it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3082.98it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 172/990 [00:00<00:00, 1695.80it/s]Loading weights:  35%|███▍      | 342/990 [00:00<00:00, 1605.47it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3206.60it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 168/990 [00:00<00:00, 1669.65it/s]Loading weights:  34%|███▍      | 335/990 [00:00<00:00, 1658.25it/s]Loading weights:  55%|█████▍    | 542/990 [00:00<00:00, 1845.19it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3204.16it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  12%|█▏        | 120/990 [00:00<00:00, 1197.94it/s]Loading weights:  25%|██▌       | 249/990 [00:00<00:00, 1241.85it/s]Loading weights:  39%|███▉      | 387/990 [00:00<00:00, 1298.55it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2854.35it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 173/990 [00:00<00:00, 1709.57it/s]Loading weights:  35%|███▍      | 344/990 [00:00<00:00, 1661.80it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3257.05it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▋        | 162/990 [00:00<00:00, 1619.04it/s]Loading weights:  33%|███▎      | 324/990 [00:00<00:00, 1586.61it/s]Loading weights:  75%|███████▌  | 744/990 [00:00<00:00, 2766.40it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3217.01it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 168/990 [00:00<00:00, 1667.44it/s]Loading weights:  34%|███▍      | 335/990 [00:00<00:00, 1593.29it/s]Loading weights:  50%|█████     | 495/990 [00:00<00:00, 1554.21it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3014.80it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 141/990 [00:00<00:00, 1377.79it/s]Loading weights:  28%|██▊       | 279/990 [00:00<00:00, 1346.64it/s]Loading weights:  43%|████▎     | 429/990 [00:00<00:00, 1411.07it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2972.79it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 164/990 [00:00<00:00, 1628.76it/s]Loading weights:  33%|███▎      | 331/990 [00:00<00:00, 1651.19it/s]Loading weights:  54%|█████▍    | 537/990 [00:00<00:00, 1837.19it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3196.26it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 159/990 [00:00<00:00, 1581.43it/s]Loading weights:  32%|███▏      | 320/990 [00:00<00:00, 1597.64it/s]Loading weights:  72%|███████▏  | 709/990 [00:00<00:00, 2642.74it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3239.32it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 143/990 [00:00<00:00, 1426.94it/s]Loading weights:  29%|██▉       | 286/990 [00:00<00:00, 1402.62it/s]Loading weights:  43%|████▎     | 429/990 [00:00<00:00, 1414.70it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2876.35it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▋        | 162/990 [00:00<00:00, 1613.88it/s]Loading weights:  33%|███▎      | 324/990 [00:00<00:00, 1509.16it/s]Loading weights:  50%|████▉     | 491/990 [00:00<00:00, 1574.53it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3059.78it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 138/990 [00:00<00:00, 1377.53it/s]Loading weights:  28%|██▊       | 276/990 [00:00<00:00, 1377.57it/s]Loading weights:  43%|████▎     | 422/990 [00:00<00:00, 1414.72it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2894.68it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 137/990 [00:00<00:00, 1369.59it/s]Loading weights:  28%|██▊       | 277/990 [00:00<00:00, 1386.48it/s]Loading weights:  43%|████▎     | 422/990 [00:00<00:00, 1403.73it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2760.23it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▎        | 134/990 [00:00<00:00, 1338.21it/s]Loading weights:  27%|██▋       | 268/990 [00:00<00:00, 1315.89it/s]Loading weights:  41%|████      | 402/990 [00:00<00:00, 1324.05it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2869.63it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 160/990 [00:00<00:00, 1593.58it/s]Loading weights:  33%|███▎      | 325/990 [00:00<00:00, 1623.53it/s]Loading weights:  49%|████▉     | 488/990 [00:00<00:00, 1608.46it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3173.36it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 167/990 [00:00<00:00, 1652.28it/s]Loading weights:  34%|███▎      | 333/990 [00:00<00:00, 1646.49it/s]Loading weights:  50%|█████     | 498/990 [00:00<00:00, 1533.56it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3016.36it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 174/990 [00:00<00:00, 1712.77it/s]Loading weights:  35%|███▍      | 346/990 [00:00<00:00, 1457.00it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2981.56it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 154/990 [00:00<00:00, 1537.61it/s]Loading weights:  31%|███       | 308/990 [00:00<00:00, 1258.54it/s]Loading weights:  45%|████▍     | 441/990 [00:00<00:00, 1283.85it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2313.79it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 160/990 [00:00<00:00, 1590.02it/s]Loading weights:  32%|███▏      | 320/990 [00:00<00:00, 1575.81it/s]Loading weights:  85%|████████▌ | 846/990 [00:00<00:00, 3243.99it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3242.07it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 159/990 [00:00<00:00, 1576.66it/s]Loading weights:  32%|███▏      | 318/990 [00:00<00:00, 1583.06it/s]Loading weights:  48%|████▊     | 477/990 [00:00<00:00, 1564.48it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3107.22it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 166/990 [00:00<00:00, 1655.29it/s]Loading weights:  34%|███▎      | 332/990 [00:00<00:00, 1611.15it/s]Loading weights:  51%|█████     | 502/990 [00:00<00:00, 1648.01it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3113.30it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▋        | 163/990 [00:00<00:00, 1627.88it/s]Loading weights:  33%|███▎      | 326/990 [00:00<00:00, 1525.96it/s]Loading weights:  50%|█████     | 497/990 [00:00<00:00, 1594.68it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2992.75it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▍        | 146/990 [00:00<00:00, 1458.94it/s]Loading weights:  32%|███▏      | 319/990 [00:00<00:00, 1610.78it/s]Loading weights:  49%|████▊     | 481/990 [00:00<00:00, 1525.02it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3068.30it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▌        | 153/990 [00:00<00:00, 1523.93it/s]Loading weights:  31%|███       | 306/990 [00:00<00:00, 1463.37it/s]Loading weights:  47%|████▋     | 465/990 [00:00<00:00, 1519.22it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3041.91it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▌        | 149/990 [00:00<00:00, 1475.07it/s]Loading weights:  32%|███▏      | 318/990 [00:00<00:00, 1600.41it/s]Loading weights:  48%|████▊     | 479/990 [00:00<00:00, 1581.87it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3167.00it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▍        | 146/990 [00:00<00:00, 1458.87it/s]Loading weights:  29%|██▉       | 292/990 [00:00<00:00, 1456.51it/s]Loading weights:  44%|████▍     | 438/990 [00:00<00:00, 1384.83it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2898.41it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▍        | 145/990 [00:00<00:00, 1449.05it/s]Loading weights:  29%|██▉       | 290/990 [00:00<00:00, 1346.02it/s]Loading weights:  45%|████▍     | 443/990 [00:00<00:00, 1423.49it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3058.76it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 140/990 [00:00<00:00, 1387.76it/s]Loading weights:  29%|██▉       | 285/990 [00:00<00:00, 1420.47it/s]Loading weights:  46%|████▌     | 452/990 [00:00<00:00, 1532.82it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3100.29it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  13%|█▎        | 125/990 [00:00<00:00, 1241.24it/s]Loading weights:  26%|██▌       | 258/990 [00:00<00:00, 1292.55it/s]Loading weights:  41%|████      | 402/990 [00:00<00:00, 1356.61it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2896.08it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 174/990 [00:00<00:00, 1729.32it/s]Loading weights:  35%|███▌      | 347/990 [00:00<00:00, 1587.80it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3143.11it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 164/990 [00:00<00:00, 1636.20it/s]Loading weights:  33%|███▎      | 328/990 [00:00<00:00, 1391.00it/s]Loading weights:  67%|██████▋   | 661/990 [00:00<00:00, 2197.77it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2945.32it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 166/990 [00:00<00:00, 1656.37it/s]Loading weights:  34%|███▎      | 333/990 [00:00<00:00, 1650.89it/s]Loading weights:  59%|█████▉    | 584/990 [00:00<00:00, 2041.21it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3214.66it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▌        | 153/990 [00:00<00:00, 1523.60it/s]Loading weights:  31%|███       | 306/990 [00:00<00:00, 1367.14it/s]Loading weights:  45%|████▌     | 449/990 [00:00<00:00, 1392.92it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2996.56it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 155/990 [00:00<00:00, 1543.84it/s]Loading weights:  31%|███▏      | 310/990 [00:00<00:00, 1422.66it/s]Loading weights:  46%|████▌     | 453/990 [00:00<00:00, 1407.63it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3009.80it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▍        | 144/990 [00:00<00:00, 1431.21it/s]Loading weights:  29%|██▉       | 288/990 [00:00<00:00, 1415.23it/s]Loading weights:  44%|████▍     | 435/990 [00:00<00:00, 1435.72it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3134.37it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▍        | 147/990 [00:00<00:00, 1468.07it/s]Loading weights:  30%|██▉       | 294/990 [00:00<00:00, 1293.77it/s]Loading weights:  43%|████▎     | 425/990 [00:00<00:00, 1283.18it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2898.92it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  19%|█▊        | 185/990 [00:00<00:00, 1847.21it/s]Loading weights:  37%|███▋      | 370/990 [00:00<00:00, 1658.80it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3385.21it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 164/990 [00:00<00:00, 1638.83it/s]Loading weights:  34%|███▎      | 333/990 [00:00<00:00, 1667.23it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3300.25it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 164/990 [00:00<00:00, 1631.01it/s]Loading weights:  33%|███▎      | 331/990 [00:00<00:00, 1652.45it/s]Loading weights:  50%|█████     | 497/990 [00:00<00:00, 1577.86it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3092.01it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 176/990 [00:00<00:00, 1755.88it/s]Loading weights:  36%|███▌      | 352/990 [00:00<00:00, 1543.27it/s]Loading weights:  93%|█████████▎| 917/990 [00:00<00:00, 3285.32it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3040.75it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 159/990 [00:00<00:00, 1583.35it/s]Loading weights:  32%|███▏      | 318/990 [00:00<00:00, 1526.15it/s]Loading weights:  48%|████▊     | 471/990 [00:00<00:00, 1464.28it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3034.65it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 156/990 [00:00<00:00, 1558.16it/s]Loading weights:  32%|███▏      | 313/990 [00:00<00:00, 1555.96it/s]Loading weights:  47%|████▋     | 469/990 [00:00<00:00, 1426.75it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2981.51it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 157/990 [00:00<00:00, 1569.83it/s]Loading weights:  32%|███▏      | 314/990 [00:00<00:00, 1356.19it/s]Loading weights:  83%|████████▎ | 820/990 [00:00<00:00, 2913.61it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2981.56it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 175/990 [00:00<00:00, 1747.29it/s]Loading weights:  35%|███▌      | 350/990 [00:00<00:00, 1680.59it/s]Loading weights:  52%|█████▏    | 519/990 [00:00<00:00, 1682.77it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3143.36it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 159/990 [00:00<00:00, 1578.75it/s]Loading weights:  34%|███▍      | 335/990 [00:00<00:00, 1683.45it/s]Loading weights:  91%|█████████ | 902/990 [00:00<00:00, 3499.89it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3272.04it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  13%|█▎        | 132/990 [00:00<00:00, 1316.76it/s]Loading weights:  28%|██▊       | 276/990 [00:00<00:00, 1377.29it/s]Loading weights:  43%|████▎     | 423/990 [00:00<00:00, 1416.20it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3076.22it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 174/990 [00:00<00:00, 1736.38it/s]Loading weights:  35%|███▌      | 348/990 [00:00<00:00, 1568.44it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3294.16it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  19%|█▊        | 184/990 [00:00<00:00, 1817.78it/s]Loading weights:  37%|███▋      | 366/990 [00:00<00:00, 1683.14it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3287.89it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 174/990 [00:00<00:00, 1731.66it/s]Loading weights:  35%|███▌      | 348/990 [00:00<00:00, 1690.95it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3330.40it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 172/990 [00:00<00:00, 1716.20it/s]Loading weights:  35%|███▍      | 344/990 [00:00<00:00, 1644.03it/s]Loading weights:  94%|█████████▍| 933/990 [00:00<00:00, 3535.19it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3202.19it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 165/990 [00:00<00:00, 1639.97it/s]Loading weights:  33%|███▎      | 329/990 [00:00<00:00, 1521.93it/s]Loading weights:  49%|████▊     | 482/990 [00:00<00:00, 1478.41it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3000.33it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 179/990 [00:00<00:00, 1782.54it/s]Loading weights:  36%|███▌      | 358/990 [00:00<00:00, 1567.91it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3108.41it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 142/990 [00:00<00:00, 1413.56it/s]Loading weights:  30%|███       | 297/990 [00:00<00:00, 1488.36it/s]Loading weights:  52%|█████▏    | 516/990 [00:00<00:00, 1807.68it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3200.34it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  13%|█▎        | 132/990 [00:00<00:00, 1319.14it/s]Loading weights:  28%|██▊       | 282/990 [00:00<00:00, 1425.24it/s]Loading weights:  43%|████▎     | 427/990 [00:00<00:00, 1433.01it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2972.25it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 171/990 [00:00<00:00, 1705.21it/s]Loading weights:  35%|███▍      | 342/990 [00:00<00:00, 1707.49it/s]Loading weights:  52%|█████▏    | 513/990 [00:00<00:00, 1700.02it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3201.27it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 158/990 [00:00<00:00, 1578.23it/s]Loading weights:  32%|███▏      | 316/990 [00:00<00:00, 1510.87it/s]Loading weights:  47%|████▋     | 468/990 [00:00<00:00, 1511.61it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2969.15it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 157/990 [00:00<00:00, 1562.12it/s]Loading weights:  32%|███▏      | 314/990 [00:00<00:00, 1539.05it/s]Loading weights:  47%|████▋     | 468/990 [00:00<00:00, 1516.23it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3066.56it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 168/990 [00:00<00:00, 1675.77it/s]Loading weights:  34%|███▍      | 336/990 [00:00<00:00, 1604.85it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3221.10it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 171/990 [00:00<00:00, 1709.43it/s]Loading weights:  35%|███▍      | 342/990 [00:00<00:00, 1685.67it/s]Loading weights:  90%|█████████ | 894/990 [00:00<00:00, 3422.71it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3248.98it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 164/990 [00:00<00:00, 1628.52it/s]Loading weights:  33%|███▎      | 327/990 [00:00<00:00, 1608.30it/s]Loading weights:  49%|████▉     | 488/990 [00:00<00:00, 1553.91it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3098.05it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 166/990 [00:00<00:00, 1653.03it/s]Loading weights:  34%|███▎      | 332/990 [00:00<00:00, 1578.20it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3326.79it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 171/990 [00:00<00:00, 1705.21it/s]Loading weights:  35%|███▌      | 349/990 [00:00<00:00, 1737.84it/s]Loading weights:  53%|█████▎    | 523/990 [00:03<00:03, 120.64it/s] Loading weights: 100%|██████████| 990/990 [00:03<00:00, 303.78it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▋        | 162/990 [00:00<00:00, 1609.75it/s]Loading weights:  33%|███▎      | 324/990 [00:00<00:00, 1614.34it/s]Loading weights:  49%|████▉     | 486/990 [00:00<00:00, 1579.95it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3148.54it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 155/990 [00:00<00:00, 1549.87it/s]Loading weights:  31%|███▏      | 310/990 [00:00<00:00, 1389.02it/s]Loading weights:  82%|████████▏ | 813/990 [00:00<00:00, 2952.89it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3066.90it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 143/990 [00:00<00:00, 1421.85it/s]Loading weights:  31%|███       | 307/990 [00:00<00:00, 1544.56it/s]Loading weights:  47%|████▋     | 466/990 [00:00<00:00, 1564.25it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3145.01it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 165/990 [00:00<00:00, 1645.34it/s]Loading weights:  33%|███▎      | 330/990 [00:00<00:00, 1624.28it/s]Loading weights:  62%|██████▏   | 618/990 [00:00<00:00, 2192.35it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3205.51it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 154/990 [00:00<00:00, 1537.47it/s]Loading weights:  31%|███▏      | 311/990 [00:00<00:00, 1554.47it/s]Loading weights:  47%|████▋     | 467/990 [00:00<00:00, 1548.46it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3091.56it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 168/990 [00:00<00:00, 1658.97it/s]Loading weights:  35%|███▌      | 349/990 [00:00<00:00, 1741.36it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3285.10it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▍        | 145/990 [00:00<00:00, 1437.07it/s]Loading weights:  30%|██▉       | 293/990 [00:00<00:00, 1457.02it/s]Loading weights:  44%|████▍     | 439/990 [00:00<00:00, 1436.63it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3056.04it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 137/990 [00:00<00:00, 1363.80it/s]Loading weights:  28%|██▊       | 280/990 [00:00<00:00, 1399.14it/s]Loading weights:  43%|████▎     | 428/990 [00:00<00:00, 1424.76it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2916.14it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▌        | 152/990 [00:00<00:00, 1511.63it/s]Loading weights:  32%|███▏      | 314/990 [00:00<00:00, 1571.13it/s]Loading weights:  68%|██████▊   | 671/990 [00:00<00:00, 2481.33it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3224.57it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 142/990 [00:00<00:00, 1414.47it/s]Loading weights:  31%|███       | 304/990 [00:00<00:00, 1530.84it/s]Loading weights:  48%|████▊     | 480/990 [00:00<00:00, 1631.84it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3145.83it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▎        | 135/990 [00:00<00:00, 1348.39it/s]Loading weights:  27%|██▋       | 272/990 [00:00<00:00, 1358.47it/s]Loading weights:  41%|████      | 408/990 [00:00<00:00, 1332.86it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2859.75it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▍        | 148/990 [00:00<00:00, 1465.39it/s]Loading weights:  32%|███▏      | 312/990 [00:00<00:00, 1557.78it/s]Loading weights:  48%|████▊     | 479/990 [00:00<00:00, 1607.31it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3146.86it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 158/990 [00:00<00:00, 1575.73it/s]Loading weights:  34%|███▎      | 332/990 [00:00<00:00, 1654.70it/s]Loading weights:  51%|█████     | 501/990 [00:00<00:00, 1665.25it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3176.99it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  15%|█▌        | 149/990 [00:00<00:00, 1485.86it/s]Loading weights:  30%|███       | 298/990 [00:00<00:00, 1402.52it/s]Loading weights:  44%|████▍     | 439/990 [00:00<00:00, 1362.93it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2932.07it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 167/990 [00:00<00:00, 1669.47it/s]Loading weights:  35%|███▍      | 342/990 [00:00<00:00, 1714.70it/s]Loading weights:  52%|█████▏    | 514/990 [00:00<00:00, 1699.48it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3188.31it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 182/990 [00:00<00:00, 1811.16it/s]Loading weights:  37%|███▋      | 364/990 [00:00<00:00, 1687.55it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3193.72it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  19%|█▊        | 184/990 [00:00<00:00, 1838.55it/s]Loading weights:  37%|███▋      | 368/990 [00:00<00:00, 1725.52it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3187.51it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 167/990 [00:00<00:00, 1662.56it/s]Loading weights:  34%|███▎      | 334/990 [00:00<00:00, 1596.34it/s]Loading weights:  50%|████▉     | 494/990 [00:00<00:00, 1595.53it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3123.00it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 179/990 [00:00<00:00, 1785.77it/s]Loading weights:  36%|███▌      | 358/990 [00:00<00:00, 1728.65it/s]Loading weights:  96%|█████████▌| 952/990 [00:00<00:00, 3615.14it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3224.13it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 170/990 [00:00<00:00, 1685.47it/s]Loading weights:  34%|███▍      | 339/990 [00:00<00:00, 1637.56it/s]Loading weights:  94%|█████████▍| 934/990 [00:00<00:00, 3570.21it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3219.36it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 172/990 [00:00<00:00, 1704.88it/s]Loading weights:  35%|███▍      | 343/990 [00:00<00:00, 1568.75it/s]Loading weights:  51%|█████     | 506/990 [00:00<00:00, 1594.03it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 2984.64it/s]
+Traceback (most recent call last):
+  File "/home/youngya/projects/Grounded-SAM-2/grounded_sam2_hf_model_demo.py", line 102, in <module>
+    masks, scores, logits = sam2_predictor.predict(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 291, in predict
+    masks, iou_predictions, low_res_masks = self._predict(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/sam2_image_predictor.py", line 420, in _predict
+    low_res_masks, iou_predictions, _, _ = self.model.sam_mask_decoder(
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/youngya/miniconda3/envs/localretro/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 136, in forward
+    masks, iou_pred, mask_tokens_out, object_score_logits = self.predict_masks(
+  File "/home/youngya/projects/Grounded-SAM-2/sam2/modeling/sam/mask_decoder.py", line 203, in predict_masks
+    assert image_embeddings.shape[0] == tokens.shape[0]
+AssertionError
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 159/990 [00:00<00:00, 1582.58it/s]Loading weights:  32%|███▏      | 318/990 [00:00<00:00, 1467.46it/s]Loading weights:  47%|████▋     | 466/990 [00:00<00:00, 1467.77it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3040.80it/s]
+Loading weights:   0%|          | 0/990 [00:00<?, ?it/s]Loading weights:  14%|█▍        | 139/990 [00:00<00:00, 1384.04it/s]Loading weights:  29%|██▉       | 286/990 [00:00<00:00, 1425.63it/s]Loading weights:  44%|████▎     | 431/990 [00:00<00:00, 1433.39it/s]Loading weights: 100%|██████████| 990/990 [00:00<00:00, 3145.24it/s]

@@ -1,0 +1,42 @@
+{
+    "image_path": "/mnt/d/research_vl2g/goose_sample_56/images/goose_044.png",
+    "annotations": [
+        {
+            "class_name": "person",
+            "bbox": [
+                425.6660461425781,
+                233.79794311523438,
+                434.3249816894531,
+                251.85678100585938
+            ],
+            "segmentation": {
+                "size": [
+                    500,
+                    1024
+                ],
+                "counts": "dW`6:Y?5L1O1O01O1O2M:G\\[o8"
+            },
+            "score": 0.73828125
+        },
+        {
+            "class_name": "obstacle barrier",
+            "bbox": [
+                715.6140747070312,
+                270.6472473144531,
+                736.9736938476562,
+                393.3417053222656
+            ],
+            "segmentation": {
+                "size": [
+                    500,
+                    1024
+                ],
+                "counts": "Xom::[=HfB9`0R1W<`1@`0L3N3N100O1O2O0O010O10O1O1N2bNRDkM50L0c01b;]1o1XOi0@Sl[4"
+            },
+            "score": 0.875
+        }
+    ],
+    "box_format": "xyxy",
+    "img_width": 1024,
+    "img_height": 500
+}

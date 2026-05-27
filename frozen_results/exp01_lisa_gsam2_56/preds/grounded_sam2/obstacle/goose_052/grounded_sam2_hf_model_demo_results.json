@@ -1,0 +1,25 @@
+{
+    "image_path": "/mnt/d/research_vl2g/goose_sample_56/images/goose_052.png",
+    "annotations": [
+        {
+            "class_name": "obstacle",
+            "bbox": [
+                877.4703369140625,
+                210.0292205810547,
+                941.4783935546875,
+                446.7476806640625
+            ],
+            "segmentation": {
+                "size": [
+                    500,
+                    1024
+                ],
+                "counts": "eS^=7V?8H8G8K4I8H8K3H\\N^Bh1_=7MO1O1N2N01@UN[Cl1j<;5K1O20O3KLkBSNP=l1;O010N200N22M3NEmB^Nh<i1a0L4N1M2NM5O14N2J7K4N3O1FeAZO\\>a0nAXOU>b0a0O1N3N2M2O2N2O1N10001O001NZYY1"
+            },
+            "score": 0.78515625
+        }
+    ],
+    "box_format": "xyxy",
+    "img_width": 1024,
+    "img_height": 500
+}

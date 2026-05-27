@@ -1,0 +1,5 @@
+Please segment the traversable road area in this image and explain why.
+Please segment the obstacle blocking the road.
+Please segment the muddy or waterlogged region that may affect driving.
+Please segment the area that is unsafe for a vehicle to drive through and explain why.
+Please segment the narrow passage where the vehicle may have difficulty passing.

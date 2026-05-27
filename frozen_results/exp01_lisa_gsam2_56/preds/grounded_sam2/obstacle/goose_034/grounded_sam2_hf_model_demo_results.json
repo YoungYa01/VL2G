@@ -1,0 +1,25 @@
+{
+    "image_path": "/mnt/d/research_vl2g/goose_sample_56/images/goose_034.png",
+    "annotations": [
+        {
+            "class_name": "tree",
+            "bbox": [
+                1857.8017578125,
+                2.3311376571655273,
+                1991.760986328125,
+                618.0282592773438
+            ],
+            "segmentation": {
+                "size": [
+                    1000,
+                    2048
+                ],
+                "counts": "kTSi1>gn09J?A5RROmN]m0T2[O9G5K;E7I3UTOfLbk0R4^O>WUO^KPj0Q6lN>WWObIlg0V7G?Ab0^O;Ec0]O8XZOcFUe0[:]O9G6J:F]1cN7I8H;E;E8H>Bh0XO;E2N4L4aCW@W9P`0^FW@_9n?[FU@c9T`0RFn_On9[`0fEi_OY:_`0ZEf_Of:``0QEc_Oo:f`0dD^_O\\;Xb0O0005J>C;D6Ja0@?@a0_O:G>A>B7J=Ba0_O`0@a0_O9G=C?B7H=D<C8I9F=D:E=C?A;E9G9H7H8I<C9oHgWOc6gh0H?@;F>A;D>C>B8H8H5K7I7J7H5L3L5L4L4L5K3M3M3M3M3L3N2N3M4L3M3L3N2N3L3M4Llok1"
+            },
+            "score": 0.96484375
+        }
+    ],
+    "box_format": "xyxy",
+    "img_width": 2048,
+    "img_height": 1000
+}

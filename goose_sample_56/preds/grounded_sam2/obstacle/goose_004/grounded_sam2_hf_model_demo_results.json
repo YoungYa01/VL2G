@@ -1,0 +1,25 @@
+{
+    "image_path": "/mnt/d/research_vl2g/goose_sample_56/images/goose_004.png",
+    "annotations": [
+        {
+            "class_name": "tree",
+            "bbox": [
+                5.6520843505859375,
+                51.938907623291016,
+                248.08921813964844,
+                538.0944213867188
+            ],
+            "segmentation": {
+                "size": [
+                    1000,
+                    2048
+                ],
+                "counts": "Q9Q7Wh000000O1FQIXXOS7`g0?N1O1F;M2O1O1O1IlGXYOV8ff07O0O2O1CdGkYO_8Tf0;0O01O1O1N2N2M2O2N2N2O100O100O1O2N100N2O1O1O2GXFnZOj9od09N1O2N2O001O10O1000O10000000000O0100000O10O10M3VOcEg\\O_:Xc0gE[\\OHMc:gc0h0000O010O100000O0VOgDV]O33W;eb0jDR]O65Q;hb0k0O1N2M4O0010O0O2O1N200O0100O100O10OM4]]OaCma04V^O^<M^Cla0P=5100O001O1O1O1N3N2U^OhBba0b=L4L6J5K6K10000000O100O10010000000O101N2N1O1O1O1N3Fi^O_BXa0^=l^O^BXa0\\==N1O2N1N2L4L5M2hCi]O^;Xb0`Dl]O];Ub0bDm]O\\;Tb0cDn]O\\;Sb0bDo]O];Qb0aDR^OFF^;Yb0fDa^OY;`a0dDc^OT;lNoDab0Ld^OU;lNnDhc0Q;Y\\OoDhc0P;X\\OPEhc0Q;W\\OoDjc0P;V\\OPEkc0P;S\\OQEmc0U;1O2N1XEP\\OW:Pd0gER\\OW:oc0gES\\OY:nc0eET\\OZ:mc0cEU\\O\\:mc0aEV\\OY:DhEfd0W:][OgEdd0W:701N1O2TFQ[O\\9Qe0`FT[O\\9^e0L4M3N2O3M3PGmYOd8Vf0XGmYOg8\\f0N0O2K]YOcGdf0o7]YOWHjf0a7VYOYH34if0a7]YO^Hef0b7ZYO^Hgf0a7YYO^Hif0a7XYO]Hmf0_7SYOaHnf0_7RYO_HPg0`7=O0O3K6K6VOmWOUJWh0h5kWOTJYh0i5jWOTJXh0j5jWORJ[h0l5gWORJ[h0k5c0M2O2aJeVOn4]i0PKgVOm4Zi0PKiVOn4Yi0oJjVOo4ii0N2M2I8N2L3L6L4K4[LlTOR3Wk0lLkTOP3Yk0mLoTOj2Uk0SMnTOg2lk0O2M3N2M3H\\SOiMfl0U2^SOgMdl0V2:]NSSOb0Vm0XOnROe0Um0XOTSO?nl0^OUSO`0nl0\\OUSO`0ol0^OTSO1WO7mn0LaWXg1"
+            },
+            "score": 0.8984375
+        }
+    ],
+    "box_format": "xyxy",
+    "img_width": 2048,
+    "img_height": 1000
+}

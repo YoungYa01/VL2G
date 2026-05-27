@@ -1,0 +1,25 @@
+{
+    "image_path": "/mnt/d/research_vl2g/goose_sample_56/images/goose_054.png",
+    "annotations": [
+        {
+            "class_name": "vehicle",
+            "bbox": [
+                492.1366271972656,
+                215.02725219726562,
+                528.7581176757812,
+                240.51824951171875
+            ],
+            "segmentation": {
+                "size": [
+                    500,
+                    1024
+                ],
+                "counts": "om`7?S?5M1N101O000000000000000O1001O00O1000000001O00000000001O001O1O2N1N2N5J[_a7"
+            },
+            "score": 0.8515625
+        }
+    ],
+    "box_format": "xyxy",
+    "img_width": 1024,
+    "img_height": 500
+}

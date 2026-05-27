@@ -1,0 +1,42 @@
+{
+    "image_path": "/mnt/d/research_vl2g/goose_sample_56/images/goose_050.png",
+    "annotations": [
+        {
+            "class_name": "rock",
+            "bbox": [
+                483.698486328125,
+                349.35736083984375,
+                667.62109375,
+                478.7378845214844
+            ],
+            "segmentation": {
+                "size": [
+                    1000,
+                    2048
+                ],
+                "counts": "fQj>b0`n0:H7J6J7I5K6I5M3M3N2N1N3M2N2O2N1O1N2O1N2O1O1O1O1O1O1O1O1O100O1O1O100O1O1O1O100O100O100O1O100O100O1O10000O100O1000000O100O10000O1000000O10000O1000001O0O10000000000000000O10000000000000000000000001O00000001O0001O0000001O0000001O0000001O00001O00001O00001O00001O010O1O001O001O001O1O001O001O1O1O1O001O1O001O1O1O1O1O1O2N1O1O2N1O2N1O1O2N2N2N1O2M3N2N2M4M2M3L5J7I8E;E`UVZ1"
+            },
+            "score": 0.9609375
+        },
+        {
+            "class_name": "tree",
+            "bbox": [
+                1201.583984375,
+                433.70294189453125,
+                1245.9755859375,
+                466.9409484863281
+            ],
+            "segmentation": {
+                "size": [
+                    1000,
+                    2048
+                ],
+                "counts": "^XfT13To03L4M2N2O2M2N5K2N2O001N10001O000O2O0001O0O1000000000001O0O100000001O0O101N101N2M3N3J7Kch^h0"
+            },
+            "score": 0.890625
+        }
+    ],
+    "box_format": "xyxy",
+    "img_width": 2048,
+    "img_height": 1000
+}
