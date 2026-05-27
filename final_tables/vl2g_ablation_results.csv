@@ -1,0 +1,8 @@
+experiment,train_data,pseudo_label,val_gt,boundary_loss,smooth_loss,risk_loss,boundary_ce_weight,uncertainty_ce_weight,iou,dice,precision,recall,out_dir
+vl2g_lisa_500_bd_smooth_strict,goose_train_500,lisa_thr50,traversable_strict,0.2,0.05,0.0,2.0,1.0,0.6812974065965444,0.7685331902302261,0.7304725689704584,0.8957244372193267,student_results/vl2g_lisa_500_bd_smooth_strict
+lisa_500_pseudo_only_strict,goose_train_500,lisa_thr50,traversable_strict,0.0,0.0,0.0,0.0,0.0,0.6824099137356188,0.7675099710999795,0.7368454921761722,0.8934136256552007,student_results/lisa_500_pseudo_only_strict
+vl2g_lisa_500_bd_smooth_strict_weak,goose_train_500,lisa_thr50,traversable_strict,0.05,0.01,0.0,0.5,0.2,0.6887127043356317,0.7727995455043796,0.737437449835363,0.8953221413404538,student_results/vl2g_lisa_500_bd_smooth_strict_weak
+vl2g_lisa_500_smooth_only_strict_weak,goose_train_500,lisa_thr50,traversable_strict,0.0,0.01,0.0,0.0,0.0,0.683945040107693,0.768036959253538,0.7366790752367454,0.889478878031454,student_results/vl2g_lisa_500_smooth_only_strict_weak
+vl2g_lisa_500_boundary_only_strict_weak,goose_train_500,lisa_thr50,traversable_strict,0.05,0.0,0.0,0.5,0.2,0.6865574624326573,0.7707020056167756,0.7406028540852525,0.8936392106929981,student_results/vl2g_lisa_500_boundary_only_strict_weak
+eval_vl2g_lisa_500_bd_smooth_weak_loose,goose_train_500,lisa_thr50,traversable_loose,0.05,0.01,0.0,0.5,0.2,0.5774875157280105,0.7106910652024201,0.8914110216983008,0.6371410077691946,student_results/eval_vl2g_lisa_500_bd_smooth_weak_loose
+eval_lisa_500_pseudo_only_loose,goose_train_500,lisa_thr50,traversable_loose,0.0,0.0,0.0,0.0,0.0,0.581403247962401,0.7133441221389548,0.8937003168400689,0.6398527823347224,student_results/eval_lisa_500_pseudo_only_loose
