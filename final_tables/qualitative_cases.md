@@ -26,3 +26,31 @@
 - GT type: loose
 - Failure: VL2G correctly captures the foreground road surface, but the prediction becomes fragmented in the mid-field grass area and fails to recover the large continuous traversable region annotated in the loose GT.
 - Possible reason: The grass field is visually ambiguous and has weak road-like structure, causing the model to produce scattered high-confidence blobs instead of a smooth traversable mask. The loose GT also annotates broad grassy terrain as traversable, which may conflict with pseudo-labels that are biased toward visually salient road surfaces.
+# 1000-scale qualitative diagnosis
+
+## Cases to inspect
+
+### Strict-improved cases
+- goose_043
+- goose_008
+- goose_015
+- goose_018
+
+### Strict-degraded but loose-improved cases
+- goose_027
+- goose_052
+- goose_053
+
+### Strong failure case
+- goose_007
+
+## Analysis template
+
+For each case:
+- Scene:
+- Strict GT behavior:
+- Loose GT behavior:
+- Pseudo-only prediction:
+- VL2G prediction:
+- Score map difference:
+- Interpretation:

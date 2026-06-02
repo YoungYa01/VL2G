@@ -1,0 +1,10 @@
+{
+  "mask_dir": "goose_train_1000/pseudo_labels/lisa_traversable_thr50",
+  "risk_dir": null,
+  "out_dir": "goose_train_1000/pseudo_labels/vl2g_lisa_thr50",
+  "boundary_width": 7,
+  "uncertainty_width": 15,
+  "num_samples": 1000,
+  "empty_traversable": 0,
+  "empty_risk": 1000
+}
