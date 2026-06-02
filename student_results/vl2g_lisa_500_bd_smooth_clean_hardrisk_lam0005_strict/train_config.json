@@ -1,0 +1,19 @@
+{
+  "train_img_dir": "goose_train_500/images",
+  "train_label_root": "goose_train_500/pseudo_labels/vl2g_lisa_thr50_with_clean_hard_risk",
+  "val_img_dir": "goose_sample_56/images",
+  "val_mask_dir": "goose_sample_56/gt_tasks/traversable_strict",
+  "out_dir": "student_results/vl2g_lisa_500_bd_smooth_clean_hardrisk_lam0005_strict",
+  "epochs": 30,
+  "batch_size": 4,
+  "lr": 5e-05,
+  "weight_decay": 0.0001,
+  "image_size": 512,
+  "num_workers": 0,
+  "lambda_dice": 1.0,
+  "lambda_boundary": 0.05,
+  "lambda_smooth": 0.01,
+  "lambda_risk": 0.005,
+  "boundary_ce_weight": 0.5,
+  "uncertainty_ce_weight": 0.2
+}
